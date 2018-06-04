@@ -1,0 +1,10 @@
+<resources>
+    <integer name="list_column_count">2</integer>
+
+    <!-- detail -->
+    <bool name="detail_is_card">true</bool>
+
+    <dimen name="detail_photo_height">400dp</dimen>
+
+    <bool name="is_two_pane_layout">true</bool>
+</resources>
